@@ -134,7 +134,7 @@ const WeddingWebsite = () => {
             </div>
             <button 
               onClick={() => scrollToSection('rsvp')}
-              className="bg-rose-600 hover:bg-rose-700 text-white px-8 py-4 text-lg rounded-full shadow-lg transform hover:scale-105 transition-all duration-300"
+              className="bg-transparent border-2 border-white text-white hover:bg-rose-600 hover:border-rose-600 px-8 py-4 text-lg rounded-full shadow-lg transform hover:scale-105 transition-all duration-300"
             >
               Potwierdź Obecność
             </button>
