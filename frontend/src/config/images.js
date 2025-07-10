@@ -21,9 +21,9 @@ export const images = {
   gallery: [
     {
       id: 1,
-      src: "https://images.unsplash.com/photo-1699568233681-6409657153f6",
-      alt: "Romantyczne zdjęcie pary przy Wieży Eiffla",
-      description: "Para tańcząca w deszczu przy Wieży Eiffla"
+      src: "https://i.imgur.com/YGmytj7.jpeg",
+      alt: "Twoje romantyczne zdjęcie z Wieży Eiffla",
+      description: "Główne zdjęcie pary przy Wieży Eiffla"
     },
     {
       id: 2,
