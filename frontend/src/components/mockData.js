@@ -22,7 +22,7 @@ export const weddingData = {
   },
   story: {
     title: "Nasza Historia",
-    content: "Poznaliśmy się podczas wspólnych wakacji nad morzem. To była miłość od pierwszego wejrzenia. Po dwóch latach związku, Adam oświadczył się Natalii podczas romantycznego zachodu słońca. Teraz nie możemy się doczekać, aby rozpocząć nowe życie razem!"
+    content: "Poznaliśmy się w internecie i od razu znaleźliśmy wspólny język. Z biegiem czasu nasza relacja stawała się coraz silniejsza. Po trzech latach związku Adam oświadczył się Natalii w Paryżu, nad malowniczą Sekwaną. Teraz nie możemy się doczekać, aby rozpocząć nowe życie razem!"
   },
   schedule: [
     {
