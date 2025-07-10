@@ -11,10 +11,8 @@ export const images = {
 
   // 📖 SEKCJA HISTORIA
   story: {
-    couple: "https://images.unsplash.com/photo-1629943163055-d8c9c9fd8a88",
-    // Przykład z Wieży Eiffla:
-    // couple: "https://images.unsplash.com/photo-1502602898536-47ad22581b52",
-    description: "Zdjęcie pary w sekcji 'Nasza Historia'"
+    couple: "https://i.imgur.com/f6PVZVn.jpeg",
+    description: "Twoje zdjęcie w sekcji 'Nasza Historia'"
   },
 
   // 🎨 GALERIA ZDJĘĆ - WSZYSTKIE TWOJE ZDJĘCIA Z IMGUR
