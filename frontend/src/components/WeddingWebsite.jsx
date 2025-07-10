@@ -283,9 +283,7 @@ const WeddingWebsite = () => {
                   alt={photo.alt}
                   className="w-full h-64 object-cover transform group-hover:scale-110 transition-transform duration-300"
                 />
-                <div className="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-30 transition-opacity duration-300 flex items-center justify-center">
-                  <CameraIcon />
-                </div>
+                {/* Usunięto ikonkę aparatu - czysta galeria */}
               </div>
             ))}
           </div>
