@@ -24,33 +24,33 @@ export const images = {
   gallery: [
     {
       id: 1,
-      src: "https://images.unsplash.com/photo-1606490194859-07c18c9f0968",
-      alt: "Romantyczne zdjęcie pary młodej",
-      description: "Główne zdjęcie pary"
+      src: "https://images.unsplash.com/photo-1699568233681-6409657153f6",
+      alt: "Romantyczne zdjęcie pary przy Wieży Eiffla",
+      description: "Para tańcząca w deszczu przy Wieży Eiffla"
     },
     {
       id: 2,
-      src: "https://images.unsplash.com/photo-1502602898536-47ad22581b52",
+      src: "https://images.unsplash.com/photo-1682261878943-d2c1382ca9a1",
       alt: "Para przy Wieży Eiffla",
       description: "Romantyczne zdjęcie z Paryża"
     },
     {
       id: 3,
-      src: "https://images.unsplash.com/photo-1723832347953-83c28e2d4dd2",
-      alt: "Elegancka ceremonia ślubna",
-      description: "Ceremonia ślubna"
+      src: "https://images.unsplash.com/photo-1699726252091-8b1f0d621d00",
+      alt: "Sylwetka pary przy Wieży Eiffla",
+      description: "Romantyczna sylwetka z ptakami"
     },
     {
       id: 4,
-      src: "https://images.unsplash.com/photo-1507915977619-6ccfe8003ae6",
-      alt: "Ceremonia w plenerze",
-      description: "Ceremonia plenerowa"
+      src: "https://images.unsplash.com/photo-1699726258869-36dff6247fd3",
+      alt: "Para przy Wieży Eiffla z fontannami",
+      description: "Sylwetka przy Trocadéro"
     },
     {
       id: 5,
-      src: "https://images.unsplash.com/photo-1524824267900-2fa9cbf7a506",
-      alt: "Elegancka sala weselna",
-      description: "Sala weselna"
+      src: "https://images.unsplash.com/photo-1606490194859-07c18c9f0968",
+      alt: "Elegancka ceremonia ślubna",
+      description: "Ceremonia ślubna"
     },
     {
       id: 6,
