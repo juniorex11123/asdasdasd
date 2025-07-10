@@ -5,10 +5,11 @@
 export const images = {
   // 🎭 ZDJĘCIE GŁÓWNE - Hero Section
   hero: {
-    background: "https://images.unsplash.com/photo-1606490194859-07c18c9f0968",
-    // Alternatywnie - Twoje zdjęcie z Wieży Eiffla:
-    // background: "https://images.unsplash.com/photo-1502602898536-47ad22581b52",
-    description: "Romantyczne zdjęcie pary - tło strony głównej"
+    background: "https://images.unsplash.com/photo-1699568233681-6409657153f6",
+    // Inne opcje z Wieży Eiffla:
+    // background: "https://images.unsplash.com/photo-1682261878943-d2c1382ca9a1",
+    // background: "https://images.unsplash.com/photo-1699726252091-8b1f0d621d00",
+    description: "Romantyczne zdjęcie pary przy Wieży Eiffla - tło strony głównej"
   },
 
   // 📖 SEKCJA HISTORIA
