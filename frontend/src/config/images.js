@@ -17,43 +17,67 @@ export const images = {
     description: "Zdjęcie pary w sekcji 'Nasza Historia'"
   },
 
-  // 🎨 GALERIA ZDJĘĆ
+  // 🎨 GALERIA ZDJĘĆ - WSZYSTKIE TWOJE ZDJĘCIA Z IMGUR
   gallery: [
     {
       id: 1,
       src: "https://i.imgur.com/YGmytj7.jpeg",
-      alt: "Twoje romantyczne zdjęcie z Wieży Eiffla",
-      description: "Główne zdjęcie pary przy Wieży Eiffla"
+      alt: "Romantyczne zdjęcie pary przy Wieży Eiffla",
+      description: "Główne zdjęcie z Wieży Eiffla"
     },
     {
       id: 2,
-      src: "https://images.unsplash.com/photo-1682261878943-d2c1382ca9a1",
-      alt: "Para przy Wieży Eiffla",
-      description: "Romantyczne zdjęcie z Paryża"
+      src: "https://i.imgur.com/f6PVZVn.jpeg",
+      alt: "Drugie zdjęcie z albumu",
+      description: "Piękne zdjęcie z sesji"
     },
     {
       id: 3,
-      src: "https://images.unsplash.com/photo-1699726252091-8b1f0d621d00",
-      alt: "Sylwetka pary przy Wieży Eiffla",
-      description: "Romantyczna sylwetka z ptakami"
+      src: "https://i.imgur.com/aH374JJ.jpeg",
+      alt: "Trzecie zdjęcie z albumu",
+      description: "Kolejne romantyczne zdjęcie"
     },
     {
       id: 4,
-      src: "https://images.unsplash.com/photo-1699726258869-36dff6247fd3",
-      alt: "Para przy Wieży Eiffla z fontannami",
-      description: "Sylwetka przy Trocadéro"
+      src: "https://i.imgur.com/QP9XToz.jpeg",
+      alt: "Czwarte zdjęcie z albumu",
+      description: "Piękne ujęcie pary"
     },
     {
       id: 5,
-      src: "https://images.unsplash.com/photo-1606490194859-07c18c9f0968",
-      alt: "Elegancka ceremonia ślubna",
-      description: "Ceremonia ślubna"
+      src: "https://i.imgur.com/0zexuSD.jpeg",
+      alt: "Piąte zdjęcie z albumu",
+      description: "Romantyczna fotografia"
     },
     {
       id: 6,
-      src: "https://images.pexels.com/photos/3082764/pexels-photo-3082764.jpeg",
-      alt: "Pierwszy taniec",
-      description: "Taniec pary młodej"
+      src: "https://i.imgur.com/FmqfCZb.jpeg",
+      alt: "Szóste zdjęcie z albumu",
+      description: "Kolejne piękne zdjęcie"
+    },
+    {
+      id: 7,
+      src: "https://i.imgur.com/vQLRyyF.jpeg",
+      alt: "Siódme zdjęcie z albumu",
+      description: "Romantyczne ujęcie"
+    },
+    {
+      id: 8,
+      src: "https://i.imgur.com/8ai8LzR.jpeg",
+      alt: "Ósme zdjęcie z albumu",
+      description: "Piękna fotografia pary"
+    },
+    {
+      id: 9,
+      src: "https://i.imgur.com/XUPEWNJ.jpeg",
+      alt: "Dziewiąte zdjęcie z albumu",
+      description: "Kolejne romantyczne zdjęcie"
+    },
+    {
+      id: 10,
+      src: "https://i.imgur.com/FroN0cw.jpeg",
+      alt: "Dziesiąte zdjęcie z albumu",
+      description: "Ostatnie piękne zdjęcie z sesji"
     }
   ],
 
